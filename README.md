@@ -9,6 +9,6 @@ HOW TO USE:
 
 2 - Click on the "VALIDAR CPF" Button.
 
-3 - Your result appears in the second entry below the buttons with the messahe "CPF VÁLIDO" or "CPF NÃO VÁLIDO".
+3 - Your result appears in the second entry below the buttons with the message "CPF VÁLIDO" or "CPF NÃO VÁLIDO".
 
 4 - At the end of the result, click on the "RESET" button to avoid errors.
