@@ -11,4 +11,4 @@ HOW TO USE:
 
 3 - Your result appears in the second entry below the buttons with the messahe "CPF VÁLIDO" or "CPF NÃO VÁLIDO".
 
-4 - Please click "RESET" button to avoid errors.
+4 - At the end of the result, click on the "RESET" button to avoid errors.
